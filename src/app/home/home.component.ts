@@ -8,9 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   constructor() { 
-    let c = 1;
-    let b = '2';
-    console.log(c + b);
+  
   }
 
   ngOnInit() {
