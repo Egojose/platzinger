@@ -53,4 +53,7 @@ export class UserService {
     };
     this.friends = [myUser1, myUser2, myUser3, myUser4, myUser5]
   }
+    getFriends() {
+      return this.friends;
+    }
 }
