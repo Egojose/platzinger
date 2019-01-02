@@ -35,7 +35,7 @@ friends : User[];
       subnick: 'hi',
       mail: 'Pedro@pedro.com',
       edad: 25,
-      friend: true,
+      friend: false,
       uid: 3
     };
 
@@ -53,7 +53,7 @@ friends : User[];
       subnick: 'lucho',
       mail: 'luis@luis.com',
       edad: 38,
-      friend: true,
+      friend: false,
       uid: 5
     };
     this.friends = [myUser1, myUser2, myUser3, myUser4, myUser5]
